@@ -38,7 +38,7 @@ class _SplashPageState extends State<SplashPage>
     //   }
     // });
   }
-
+//
   @override
   void dispose() {
     _controller.dispose();
